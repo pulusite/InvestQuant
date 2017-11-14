@@ -24,3 +24,6 @@ def addMe2Me(x):
     return (x+x)
 print addMe2Me('python')
 
+aaa
+print aaa;
+

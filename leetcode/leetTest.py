@@ -1,17 +1,17 @@
 #!/usr/bin/python
 import GG066
-print "Hello World!"
+print ("Hello World!")
 
 myString ='hi,python'
-print myString;
+print (myString);
 
 import sys
-print sys.platform
+print (sys.platform)
 
 # user = raw_input('Enter login name:')
 # print 'Your login is:',user;
 
-print range(3)
+print (range(3))
 
 
 # filename=raw_input('Enter file name:')
@@ -22,8 +22,8 @@ print range(3)
 
 def addMe2Me(x):
     return (x+x)
-print addMe2Me('python')
+print (addMe2Me('python'))
 
 aaa=0
-print aaa;
+print (aaa);
 

@@ -11,8 +11,8 @@ class Leet144:
                 stack.append(node.left)
         return ret
 
-leet = Leet144
-root = TreeNode(1)
+leet = Leet144()
+root = TreeNode()
 treeNode2=TreeNode(2)
 treeNode3=TreeNode(3)
 
